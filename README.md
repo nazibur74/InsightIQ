@@ -359,11 +359,3 @@ Potential improvements include:
 **Md. Nazibur Rahman**
 
 GitHub: [nazibur74](https://github.com/nazibur74)
-
-------------------------------------------------------------------------
-
-## License
-
-Choose and add a license before distributing or accepting contributions.
-If no license is included, the repository's contents are not
-automatically open for reuse.
