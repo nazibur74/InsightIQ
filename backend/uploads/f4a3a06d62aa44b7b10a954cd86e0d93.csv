@@ -1,0 +1,7 @@
+﻿Customer,City,Sales,Profit,Date
+Rahim,Dhaka,5000,1000,1/1/2026
+Karim,dhaka,3000,-500,3/21/2026
+Rahim,Dhaka,5000,1000,1/1/2026
+Nadia,Chittagong,4000,500,1/3/2026
+,,2500,300,invalid-date
+Sakib,,3500,700,1/5/2026
